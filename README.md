@@ -1,3 +1,3 @@
 # hello-world
-coding task for school
-i created and additional branch called readme-edits
+coding task for school, 
+i created an additional branch called readme-edits
